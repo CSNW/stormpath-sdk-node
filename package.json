@@ -1,6 +1,6 @@
 {
   "name": "stormpath",
-  "version": "1.0.0-rc16",
+  "version": "1.0.0-rc17",
   "main": "lib/stormpath.js",
   "description": "Official Stormpath SDK for Node.js",
   "keywords": [
@@ -44,7 +44,7 @@
     "async": "~1.5.2",
     "deep-extend": "^0.4.1",
     "dot-object": "^1.5.4",
-    "jwt-simple": "~0.4.0",
+    "jwt-simple": "~0.5.3",
     "memcached": "~2.2.2",
     "moment": "^2.15.2",
     "njwt": "^0.4.0",
