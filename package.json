@@ -1,6 +1,6 @@
 {
   "name": "stormpath",
-  "version": "1.0.0-rc24",
+  "version": "1.0.0-rc25",
   "main": "lib/stormpath.js",
   "description": "Official Stormpath SDK for Node.js",
   "keywords": [
@@ -51,7 +51,7 @@
     "properties-parser": "~0.3.1",
     "redis": "~2.6.2",
     "request": "^2.88.0",
-    "stormpath-config": "git+https://github.com/CSNW/stormpath-node-config.git#v0.0.34",
+    "stormpath-config": "git+https://github.com/CSNW/stormpath-node-config.git#v0.0.35",
     "underscore": "~1.5.2",
     "underscore.string": "~3.3.5",
     "uuid": "^3.0.0",
